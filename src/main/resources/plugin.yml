@@ -1,0 +1,9 @@
+name: HatYou
+version: '${version}'
+main: com.gmail.necnionch.myplugin.hatyou.bukkit.HatYouPlugin
+api-version: '1.13'
+
+
+permissions:
+  hatyou.click:
+    default: true
